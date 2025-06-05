@@ -162,7 +162,7 @@ Deno.serve(async (request: Request) => {
             <a href="/${userID}" class="button">Get My VLESS Config</a>
         </div>
         <div class="footer">
-            Powered by Deno. For support, contact <a href="https://t.me/modsbots_tech" target="_blank">@modsbots_tech</a>.
+            Powered by Deno. For support, contact <a href="https://t.me/kyawzayramin" target="_blank">@myokhaingzpg</a>.
         </div>
     </div>
 </body>
